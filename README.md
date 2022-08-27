@@ -8,6 +8,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+### Create a .env.local file
+
+Copy the file `env.local_example` to `.env.local`. Go to clerk.dev and create an account. From there you can grab your key that is safe for the frontend and add that as the value for the `NEXT_PUBLIC_CLERK_FRONTEND_API` environment key. You will also need a `CLERK_API_KEY` which you can generate from your clerk.dev dashboard.
+
+### Start the project locally
+
 First, run the development server:
 
 ```bash
