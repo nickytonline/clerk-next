@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f021865d-6a7c-498c-bf6f-20e022bf1c2e/deploy-status)](https://app.netlify.com/sites/clerk-nextjs/deploys)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and clerk.dev
 
 <a href="https://www.twitch.tv/videos/1573783720?filter=highlights&sort=time">
